@@ -1,0 +1,71 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+
+body {
+  padding: 0;
+  margin: 0;
+  font-family: "Lato";
+}
+
+ul {
+  list-style-type: none;
+}
+
+button {
+  cursor: pointer;
+}
+
+button:focus {
+  outline: none;
+}
+
+input:focus {
+  outline: none;
+}
+
+img {
+  pointer-events: none;
+}
+
+.hide {
+  display: none;
+}
+
+@media (max-width: 768px) {
+  .page-container {
+    max-width: 100%;
+    padding-left: 15px;
+    padding-right: 15px;
+  }
+}
+
+@media (min-width: 768px) and (max-width: 1366px) {
+  .page-container {
+    max-width: 100%;
+    padding-left: 20px;
+    padding-right: 20px;
+  }
+}
+
+@media (min-width: 1920px) {
+  .page-container {
+    max-width: 100%;
+    padding-left: 307px;
+    padding-right: 307px;
+  }
+}
+
+@media (min-width: 1366px){
+  .main-container {
+    max-width: 1210px;
+    margin: 0 auto;
+  }
+}
+
+.header-cart__container {
+  text-align: center;
+  margin-bottom: 50px;
+  padding-top: 25px;
+}

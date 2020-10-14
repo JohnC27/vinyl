@@ -1,0 +1,85 @@
+[{
+    "id": 0,
+    "img": "../img/vinil-record-yellow.svg",
+    "title": "Michel Jackson “Billie Jean“",
+    "price": 20,
+    "genre": "Disco"
+  },
+  {
+    "id": 1,
+    "img": "../img/vinil-record-red.svg",
+    "title": "Frank Sinatra “You make me feel so young“",
+    "price": 39,
+    "genre": "Classical"
+  },
+  {
+    "id": 2,
+    "img": "../img/vinil-record-blue.svg",
+    "title": "Yung Lean “Red Bottom Sky“",
+    "price": 13,
+    "genre": "Rap"
+  },
+  {
+    "id": 3,
+    "img": "../img/vinil-record-pink.svg",
+    "title": "Michel Jackson “Thriller“",
+    "price": 131,
+    "genre": "Disco"
+  },
+  {
+    "id": 4,
+    "img": "../img/vinil-record-blue.svg",
+    "title": "PowerWolf “Deamon Are A Girls Best Friend“",
+    "price": 75,
+    "genre": "Rock"
+  },
+  {
+    "id": 5,
+    "img": "../img/vinil-record-blue.svg",
+    "title": "Dan Hartman “Relight My Fire“",
+    "price": 25,
+    "genre": "Disco"
+  },
+  {
+    "id": 6,
+    "img": "../img/vinil-record-pink.svg",
+    "title": "Post Malone “Circles“",
+    "price": 22,
+    "genre": "Pop"
+  },
+  {
+    "id": 7,
+    "img": "../img/vinil-record-red.svg",
+    "title": "Taylor Swift “Lover“",
+    "price": 85,
+    "genre": "Pop"
+  },
+  {
+    "id": 8,
+    "img": "../img/vinil-record-yellow.svg",
+    "title": "Justin Bieber “Yummy“",
+    "price": 85,
+    "genre": "Pop"
+  },
+  {
+    "id": 9,
+    "img": "../img/vinil-record-blue.svg",
+    "title": "Bill Withers “Lean on me“",
+    "price": 85,
+    "genre": "Rock"
+  },
+  {
+    "id": 10,
+    "img": "../img/vinil-record-blue.svg",
+    "title": "Eminem “Lose yourself“",
+    "price": 47,
+    "genre": "Rap"
+  },
+  {
+    "id": 11,
+    "img": "../img/vinil-record-red.svg",
+    "title": "Frank Sinatra “Christamal Dreaming“",
+    "price": 13,
+    "genre": "Classical"
+  }
+]
