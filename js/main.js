@@ -68,7 +68,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
   // * DONE
   const renderCards = async() => {
-    const cards = await getJsonData('./db.json');
+    const cards = await getJsonData('/js/db.json');
 
     cards.forEach(item => {
       const card = new Card(cardsBlock, item.id, item.img, item.title, item.price, item.genre);
@@ -82,7 +82,7 @@ document.addEventListener('DOMContentLoaded', () => {
     const target = event.target;
     if (target.classList.contains('list__link')) {
 
-      const data = await getJsonData('./db.json');
+      const data = await getJsonData('/js/db.json');
       cardsBlock.innerHTML = '';
       const filteredData = data.filter(item => {
         if (target.dataset.genre === item.genre) {
