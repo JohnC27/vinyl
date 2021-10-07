@@ -1,7 +1,7 @@
 const itemsCookieName = 'itemsCart';
 
 const getJsonData = async url => {
-  const response = await fetch(url);
+  const response = await fetch(`https://johnc27.github.io/vinyl${url}`);
   const data = await response.json();
 
   return data;
